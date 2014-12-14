@@ -187,4 +187,3 @@ xyplot(steps ~ interval | factor(day), data = stepsInterval2, aspect = 1/2,
 ```
 
 ![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12.png) 
-
